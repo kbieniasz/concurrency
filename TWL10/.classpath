@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="/TWLab10/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/TWLab10/lib/jcsp-1.1-rc4.jar" sourcepath="/TWLab10/lib/jcsp-1.1-rc4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/TWLab10/lib/jcsp-1.1-rc4.jar!/jcsp-1.1-rc4/jcsp-core-doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/jcsp-1.1-rc4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
